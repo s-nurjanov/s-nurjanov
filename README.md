@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @s-nurjanov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning front-end web development
-- 📫 You can find me on upwork
+Oh Hey! I Am Saidkamol Nurjanov. That's it.
